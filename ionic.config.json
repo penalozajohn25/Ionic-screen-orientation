@@ -1,0 +1,7 @@
+{
+  "name": "Orientation",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
